@@ -16,10 +16,12 @@ For example:
 
 ### What does this Project do?
 1. Add POS information into dicionary
+
 		中國 中国 [Zhong1 guo2] (noun) /China/Middle Kingdom/
+
 2. Add semantic information of translation if possible. (this is not opened yet)
 
-### Which kinds of POS it support?
+### Which kinds of POS does it support?
  + verb
  + noun
  + adj
